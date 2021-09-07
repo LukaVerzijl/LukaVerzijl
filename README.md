@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Spotify](https://redlucraft.vercel.app/api/spotify)](https://open.spotify.com/user/Redlucraft)
+
 <!--
 **Redlucraft/Redlucraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
