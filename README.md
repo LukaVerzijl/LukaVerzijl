@@ -4,6 +4,10 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/319447832732106752)](https://discord.com/users/319447832732106752)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redlucraft&count_private=true)
+
+
+
 <!--
 **Redlucraft/Redlucraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
