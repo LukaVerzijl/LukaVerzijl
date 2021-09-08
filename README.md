@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Spotify](https://novatorem-redlucraft.vercel.app/api/spotify?scan=true)](https://open.spotify.com/user/Redlucraft)
+[![Spotify](https://novatorem-redlucraft.vercel.app/api?theme=dark/spotify)](https://open.spotify.com/user/Redlucraft)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/319447832732106752)](https://discord.com/users/319447832732106752)
 
 
