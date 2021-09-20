@@ -2,8 +2,10 @@
 
 ### I'm Redlucraft a small developer from the netherlands.
 
-
+##I'm Listing to:
 [![Spotify](https://novatorem-redlucraft.vercel.app/api/spotify)](https://open.spotify.com/user/Redlucraft)
+
+##Check out my discord profile!
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/319447832732106752)](https://discord.com/users/319447832732106752)
 
 
