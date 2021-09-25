@@ -20,6 +20,9 @@
 <a href="https://twitter.com/redlucraft1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redlucraft1" height="30" width="40" /></a>
 </p>
 
+### Github Facts in here i guess⚡
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redlucraft)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redlucraft&show_icons=true&theme=tokyonight)
 
 
 
