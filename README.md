@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### I'm Redlucraft a small developer from the netherlands.
+### I'm Redlucraft a small developer from The Netherlands.
 
 ## I'm Listing to:
 [![Spotify](https://novatorem-redlucraft.vercel.app/api/spotify)](https://open.spotify.com/user/Redlucraft)
