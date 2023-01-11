@@ -9,7 +9,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/319447832732106752)](https://discord.com/users/319447832732106752)
 
 
-### 🌱 I’m currently learning Java
+### 🌱 I’m currently learning Java And React
 
 
 <h3 align="left">Languages and Tools:</h3>
