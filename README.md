@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-### Project's i currently work on
+## Project's i currently work on
 - Project Walibi
 - ToverCraft
 - MCThemeParks
