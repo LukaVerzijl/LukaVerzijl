@@ -17,6 +17,5 @@
 </p>
 
 ### Github public repo Facts in here i guess⚡
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redlucraft)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redlucraft&show_icons=true&theme=tokyonight)
 
