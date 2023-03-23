@@ -17,5 +17,5 @@
 </p>
 
 ### Github public repo Facts in here i guess⚡
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Redlucraft&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaVerzijl&show_icons=true&theme=tokyonight)
 
