@@ -14,6 +14,6 @@
 
 </p>
 
-### Github public repo Facts in here i guess⚡
+### Github public repo Facts of my open source projects ⚡
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukaVerzijl&show_icons=true&theme=tokyonight)
 
